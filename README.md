@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 ## Introduction
-_______________________________________________________________________________________________________________
+
 ## https://ant-hoang.github.io/
+
+My name is Anthony Hoang! Welcome to my Github Page:
+- 🔭 I’m currently working on [Eatup](http://eat-up-i257.onrender.com/)! A recipe lookup app that provides written directions and videos to make cooking easy and fun to do.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anthony-hoang-ab08ab97/)/[Personal Site](https://ant-hoang.github.io/)
 <!--
 **ant-hoang/ant-hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
